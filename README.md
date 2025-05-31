@@ -42,3 +42,4 @@ Each node contains:
 
 ### 🌲 Tree Construction
 The default tree (option 1) is manually created as a balanced BST:
+![bst](https://github.com/user-attachments/assets/e902388c-d3e8-4c6c-a59d-77675ea037f6)
